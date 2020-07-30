@@ -1,0 +1,6 @@
+/**
+ * Generated bundle index. Do not edit.
+ */
+export * from './public-api';
+export { GridstackService as ɵa } from './lib/services/gridstack.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibGlicmlhLWdyaWRzdGFjay5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0BsaWJyaWEvZ3JpZHN0YWNrLyIsInNvdXJjZXMiOlsibGlicmlhLWdyaWRzdGFjay50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsY0FBYyxDQUFDO0FBRTdCLE9BQU8sRUFBQyxnQkFBZ0IsSUFBSSxFQUFFLEVBQUMsTUFBTSxrQ0FBa0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qKlxuICogR2VuZXJhdGVkIGJ1bmRsZSBpbmRleC4gRG8gbm90IGVkaXQuXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9wdWJsaWMtYXBpJztcblxuZXhwb3J0IHtHcmlkc3RhY2tTZXJ2aWNlIGFzIMm1YX0gZnJvbSAnLi9saWIvc2VydmljZXMvZ3JpZHN0YWNrLnNlcnZpY2UnOyJdfQ==
