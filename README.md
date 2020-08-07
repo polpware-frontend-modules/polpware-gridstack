@@ -4,10 +4,8 @@ Angular 9 wrapper for [Gridstack.js](http://gridstackjs.com/).
 
 ## Getting started
 
-
 ```bash
-npm install @libria/gridstack --save. // Please skip this if you'd like to use the latest gridstack.js 1.1.2
-yarn add https://github.com/polpware-frontend-modules/polpware-gridstack
+npm install @libria/gridstack --save
 ```
 
 Then import the library on your root module (AppModule, for instance):
